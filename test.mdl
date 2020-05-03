@@ -1,6 +1,11 @@
 //This file contains various configurations of commands in mdl
 //Its purpose is to verify that your compiler recognizes valid commands
 //The image it creates is unimportant
+constants k1 0.3 0.2 0.8 0.3 0 0 0.3 0.2 0.8
+constants k2 0.3 0.0 0.0 0.3 0.2 0.8 0.3 0.2 0.8
+constants k3 0.3 0.8 0.2 0.3 0.8 0.2 0 0 0
+constants both_kons3 0.3 0.8 0.2 0.3 0.8 0.2 0 0 .9
+constants bcons 0.3 0.8 0.2 0.3 0.8 0.5 0 0 .5
 push
 move .1 0.2 3.4
 move -.1 -0.2 -3.4
